@@ -1,0 +1,27 @@
+{
+  "name": "Example",
+  "version": "0.0.0",
+  "description": "Node example",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pooja-C/nodeNew"
+  },
+  "keywords": [
+    "new",
+    "example"
+  ],
+  "author": "Pooja-C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja-C/nodeNew/issues"
+  },
+  "homepage": "https://github.com/Pooja-C/nodeNew",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.4.0"
+  }
+}
